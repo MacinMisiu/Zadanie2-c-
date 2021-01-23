@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "od_lewo_do_prawo/1.0.0": {
+        "runtime": {
+          "od_lewo_do_prawo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "od_lewo_do_prawo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

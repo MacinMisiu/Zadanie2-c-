@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ukosna_kreska/1.0.0": {
+        "runtime": {
+          "ukosna_kreska.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ukosna_kreska/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

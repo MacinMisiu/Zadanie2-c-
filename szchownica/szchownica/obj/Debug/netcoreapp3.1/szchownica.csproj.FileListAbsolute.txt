@@ -1,0 +1,13 @@
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\szchownica\szchownica\obj\Debug\netcoreapp3.1\szchownica.csprojAssemblyReference.cache
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\szchownica\szchownica\obj\Debug\netcoreapp3.1\szchownica.AssemblyInfoInputs.cache
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\szchownica\szchownica\obj\Debug\netcoreapp3.1\szchownica.AssemblyInfo.cs
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\szchownica\szchownica\obj\Debug\netcoreapp3.1\szchownica.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\szchownica\szchownica\bin\Debug\netcoreapp3.1\szchownica.exe
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\szchownica\szchownica\bin\Debug\netcoreapp3.1\szchownica.deps.json
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\szchownica\szchownica\bin\Debug\netcoreapp3.1\szchownica.runtimeconfig.json
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\szchownica\szchownica\bin\Debug\netcoreapp3.1\szchownica.runtimeconfig.dev.json
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\szchownica\szchownica\bin\Debug\netcoreapp3.1\szchownica.dll
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\szchownica\szchownica\bin\Debug\netcoreapp3.1\szchownica.pdb
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\szchownica\szchownica\obj\Debug\netcoreapp3.1\szchownica.dll
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\szchownica\szchownica\obj\Debug\netcoreapp3.1\szchownica.pdb
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\szchownica\szchownica\obj\Debug\netcoreapp3.1\szchownica.genruntimeconfig.cache

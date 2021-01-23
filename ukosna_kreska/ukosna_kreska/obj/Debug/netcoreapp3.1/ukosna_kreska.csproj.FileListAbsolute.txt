@@ -1,0 +1,13 @@
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\ukosna_kreska\ukosna_kreska\bin\Debug\netcoreapp3.1\ukosna_kreska.exe
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\ukosna_kreska\ukosna_kreska\bin\Debug\netcoreapp3.1\ukosna_kreska.deps.json
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\ukosna_kreska\ukosna_kreska\bin\Debug\netcoreapp3.1\ukosna_kreska.runtimeconfig.json
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\ukosna_kreska\ukosna_kreska\bin\Debug\netcoreapp3.1\ukosna_kreska.runtimeconfig.dev.json
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\ukosna_kreska\ukosna_kreska\bin\Debug\netcoreapp3.1\ukosna_kreska.dll
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\ukosna_kreska\ukosna_kreska\bin\Debug\netcoreapp3.1\ukosna_kreska.pdb
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\ukosna_kreska\ukosna_kreska\obj\Debug\netcoreapp3.1\ukosna_kreska.csprojAssemblyReference.cache
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\ukosna_kreska\ukosna_kreska\obj\Debug\netcoreapp3.1\ukosna_kreska.AssemblyInfoInputs.cache
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\ukosna_kreska\ukosna_kreska\obj\Debug\netcoreapp3.1\ukosna_kreska.AssemblyInfo.cs
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\ukosna_kreska\ukosna_kreska\obj\Debug\netcoreapp3.1\ukosna_kreska.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\ukosna_kreska\ukosna_kreska\obj\Debug\netcoreapp3.1\ukosna_kreska.dll
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\ukosna_kreska\ukosna_kreska\obj\Debug\netcoreapp3.1\ukosna_kreska.pdb
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\ukosna_kreska\ukosna_kreska\obj\Debug\netcoreapp3.1\ukosna_kreska.genruntimeconfig.cache

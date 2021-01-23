@@ -1,0 +1,13 @@
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\z_gory_na_dol\z_gory_na_dol\bin\Debug\netcoreapp3.1\z_gory_na_dol.exe
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\z_gory_na_dol\z_gory_na_dol\bin\Debug\netcoreapp3.1\z_gory_na_dol.deps.json
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\z_gory_na_dol\z_gory_na_dol\bin\Debug\netcoreapp3.1\z_gory_na_dol.runtimeconfig.json
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\z_gory_na_dol\z_gory_na_dol\bin\Debug\netcoreapp3.1\z_gory_na_dol.runtimeconfig.dev.json
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\z_gory_na_dol\z_gory_na_dol\bin\Debug\netcoreapp3.1\z_gory_na_dol.dll
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\z_gory_na_dol\z_gory_na_dol\bin\Debug\netcoreapp3.1\z_gory_na_dol.pdb
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\z_gory_na_dol\z_gory_na_dol\obj\Debug\netcoreapp3.1\z_gory_na_dol.csprojAssemblyReference.cache
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\z_gory_na_dol\z_gory_na_dol\obj\Debug\netcoreapp3.1\z_gory_na_dol.AssemblyInfoInputs.cache
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\z_gory_na_dol\z_gory_na_dol\obj\Debug\netcoreapp3.1\z_gory_na_dol.AssemblyInfo.cs
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\z_gory_na_dol\z_gory_na_dol\obj\Debug\netcoreapp3.1\z_gory_na_dol.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\z_gory_na_dol\z_gory_na_dol\obj\Debug\netcoreapp3.1\z_gory_na_dol.dll
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\z_gory_na_dol\z_gory_na_dol\obj\Debug\netcoreapp3.1\z_gory_na_dol.pdb
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\z_gory_na_dol\z_gory_na_dol\obj\Debug\netcoreapp3.1\z_gory_na_dol.genruntimeconfig.cache

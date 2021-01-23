@@ -1,0 +1,13 @@
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\od_lewo_do_prawo\od_lewo_do_prawo\obj\Debug\netcoreapp3.1\od_lewo_do_prawo.csprojAssemblyReference.cache
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\od_lewo_do_prawo\od_lewo_do_prawo\obj\Debug\netcoreapp3.1\od_lewo_do_prawo.AssemblyInfoInputs.cache
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\od_lewo_do_prawo\od_lewo_do_prawo\obj\Debug\netcoreapp3.1\od_lewo_do_prawo.AssemblyInfo.cs
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\od_lewo_do_prawo\od_lewo_do_prawo\obj\Debug\netcoreapp3.1\od_lewo_do_prawo.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\od_lewo_do_prawo\od_lewo_do_prawo\bin\Debug\netcoreapp3.1\od_lewo_do_prawo.exe
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\od_lewo_do_prawo\od_lewo_do_prawo\bin\Debug\netcoreapp3.1\od_lewo_do_prawo.deps.json
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\od_lewo_do_prawo\od_lewo_do_prawo\bin\Debug\netcoreapp3.1\od_lewo_do_prawo.runtimeconfig.json
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\od_lewo_do_prawo\od_lewo_do_prawo\bin\Debug\netcoreapp3.1\od_lewo_do_prawo.runtimeconfig.dev.json
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\od_lewo_do_prawo\od_lewo_do_prawo\bin\Debug\netcoreapp3.1\od_lewo_do_prawo.dll
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\od_lewo_do_prawo\od_lewo_do_prawo\bin\Debug\netcoreapp3.1\od_lewo_do_prawo.pdb
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\od_lewo_do_prawo\od_lewo_do_prawo\obj\Debug\netcoreapp3.1\od_lewo_do_prawo.dll
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\od_lewo_do_prawo\od_lewo_do_prawo\obj\Debug\netcoreapp3.1\od_lewo_do_prawo.pdb
+C:\Users\marci\OneDrive\Pulpit\c#\drugiezadaniec#\od_lewo_do_prawo\od_lewo_do_prawo\obj\Debug\netcoreapp3.1\od_lewo_do_prawo.genruntimeconfig.cache
